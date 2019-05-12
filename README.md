@@ -1,7 +1,9 @@
 # deep-omit
 
 [![npm](https://img.shields.io/npm/v/deep-omit.svg)](https://www.npmjs.com/package/deep-omit)
-[![Travis (.org)](https://img.shields.io/travis/risenforces/deep-omit.svg)](https://travis-ci.org/risenforces/deep-omit)
+[![Travis (.com)](https://img.shields.io/travis/com/risenforces/deep-omit.svg)](https://travis-ci.com/risenforces/deep-omit)
+
+Recursively omit the specified key or keys from an object.
 
 ## Installation
 
