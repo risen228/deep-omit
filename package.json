@@ -1,6 +1,6 @@
 {
   "name": "deep-omit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively omit the specified key or keys from an object",
   "main": "index.js",
   "scripts": {
